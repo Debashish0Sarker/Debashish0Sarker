@@ -24,14 +24,9 @@ I'm a passionate Computer Science student focused on Software Engineering with a
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Debashish0Sarker&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Debashish0Sarker&theme=radical" alt="GitHub Streak" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debashish0Sarker&layout=compact&theme=radical" alt="Top Languages" height="165" />
-</p>
+
+
 <!--
 **Debashish0Sarker/Debashish0Sarker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

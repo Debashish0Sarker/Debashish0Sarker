@@ -3,11 +3,16 @@
 ## 🎓 About Me
 I'm a passionate Computer Science student focused on Software Engineering with a keen interest in web development and emerging technologies. I enjoy building efficient, scalable solutions and continuously expanding my technical skill set.
 
+## 🚀 Skilled Developed in
+- **Laravel** – PHP web application framework  
+- **Machine Learning & Deep Learning**  
+- **Federated Learning** – Privacy-preserving distributed ML  
+- Exploring the intersection of **AI + scalable systems**
+
 ## 🚀 Currently Learning
-- 🌱 **Laravel** – PHP web application framework  
-- 🌱 **Machine Learning & Deep Learning**  
-- 🌱 **Federated Learning** – Privacy-preserving distributed ML  
-- 🔭 Exploring the intersection of **AI + scalable systems**
+- **Unity** - Game development Platform
+- **Blender** - 3D Software Tool
+- **MERN** 
 
 ## 💻 Tech Stack
 

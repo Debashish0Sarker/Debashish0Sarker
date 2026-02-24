@@ -13,16 +13,7 @@ I'm a passionate Computer Science student focused on Software Engineering with a
 - **Unity** - Game development Platform
 - **Blender** - 3D Software Tool
 - **MERN** 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Debashish0Sarker&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debashish0Sarker&layout=compact&theme=radical" alt="Top Languages" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Debashish0Sarker&theme=radical" alt="GitHub Streak" />
-</div>
 ## 💻 Tech Stack
 
 ### 🧠 Programming Languages

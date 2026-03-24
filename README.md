@@ -27,8 +27,8 @@ I'm a Computer Science graduate focused on Software Engineering, interested in b
 
 ### Frameworks
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-#F8FF00?style=for-the-badge&logo=flask&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-#B8B8B8?style=for-the-badge&logo=unity&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-F8FF00?style=for-the-badge&logo=flask&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-B8B8B8?style=for-the-badge&logo=unity&logoColor=white)
 
 ### Featured Project
 ## Smart Learn
@@ -53,9 +53,13 @@ I'm a Computer Science graduate focused on Software Engineering, interested in b
 - An implementation of the binary search algorithm using Assembly language, demonstrating low-level programming concepts and memory-level operations.
 [View Project](https://github.com/Debashish0Sarker/Assembly-Language-project)
 
+---
+
 ### Escape from Monster (Unity)
 - A 3D survival horror game built with Unity and C#.
 [Play Here](https://debashish0sarker.itch.io/escape-from-monster)
+
+---
 
 ### Machine Learning & AI
 - Machine Learning (Regression, Classification)

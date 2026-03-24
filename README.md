@@ -31,12 +31,31 @@ I'm a Computer Science graduate focused on Software Engineering, interested in b
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ### Featured Project
-[Smart Learn]
-A full-stack web application built with Laravel.
+### Smart Learn
+-A full-stack learning platform built with Laravel that allows teachers to upload study materials and students to access study materials.
 [View Project](https://github.com/boloyman/Smart-Learn)
 
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-- Escape from Monster: https://debashish0sarker.itch.io/escape-from-monster
+--- 
+
+### CAPTCHA Recognition
+- A deep learning-based CAPTCHA recognition system using neural network architectures for text-based CAPTCHA solving. Includes model training, evaluation, and performance analysis. 
+[View Project](https://github.com/Debashish0Sarker/Project-Deep-Learning-Architecture-for-Text-Based-CAPTCHA-Recognition)
+
+---
+
+### Banking System
+- A database-driven banking system built with PHP and SQL, supporting account management, transactions, and basic banking operations.
+[View Project](https://github.com/ovijitM/Banking-system-with_php_sql)
+
+---
+
+[Binary Search using Assembly Language]
+- An implementation of the binary search algorithm using Assembly language, demonstrating low-level programming concepts and memory-level operations.
+[View Project](https://github.com/Debashish0Sarker/Assembly-Language-project)
+
+### Escape from Monster (Unity)
+- A 3D survival horror game built with Unity and C#.
+[Play Here](https://debashish0sarker.itch.io/escape-from-monster)
 
 ### Machine Learning & AI
 - Machine Learning (Regression, Classification)

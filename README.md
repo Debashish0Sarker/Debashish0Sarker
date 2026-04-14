@@ -32,7 +32,7 @@ I'm a Computer Science graduate focused on Software Engineering, interested in b
 
 ## Featured Project
 ### Smart Learn
--A full-stack learning platform built with Laravel that allows teachers to upload study materials and students to access study materials.
+- A full-stack learning platform built with Laravel that allows teachers to upload study materials and students to access study materials.
 [View Project](https://github.com/boloyman/Smart-Learn)
 
 --- 

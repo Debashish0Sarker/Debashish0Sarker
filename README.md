@@ -31,8 +31,14 @@ I'm a Computer Science graduate focused on Software Engineering, interested in b
 ![Unity](https://img.shields.io/badge/Unity-B8B8B8?style=for-the-badge&logo=unity&logoColor=white)
 
 ## Featured Project
+### 3D Scene Builder
+-Developed a full-stack web application featuring an interactive 3D graphics canvas that enables real-time rendering, manipulation, and customization of complex 3D layouts.
+[View Project](https://github.com/Debashish0Sarker/Application_3D)
+
+---
+
 ### Smart Learn
-- A full-stack learning platform built with Laravel that allows teachers to upload study materials and students to access study materials.
+- A full-stack learning platform built with Laravel that allows teachers to upload study materials and students to access them.
 [View Project](https://github.com/boloyman/Smart-Learn)
 
 --- 

@@ -32,7 +32,7 @@ I'm a Computer Science graduate focused on Software Engineering, interested in b
 
 ## Featured Project
 ### 3D Scene Builder
--Developed a full-stack web application featuring an interactive 3D graphics canvas that enables real-time rendering, manipulation, and customization of complex 3D layouts.
+- Developed a full-stack web application featuring an interactive 3D graphics canvas that enables real-time rendering, manipulation, and customization of complex 3D layouts.
 [View Project](https://github.com/Debashish0Sarker/Application_3D)
 
 ---

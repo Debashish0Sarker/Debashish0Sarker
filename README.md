@@ -31,6 +31,12 @@ I'm a Computer Science graduate focused on Software Engineering, interested in b
 ![Unity](https://img.shields.io/badge/Unity-B8B8B8?style=for-the-badge&logo=unity&logoColor=white)
 
 ## Featured Project
+### E-Commerce Website
+- A full-stack MERN e-commerce marketplace featuring an AI shopping assistant powered by Google Gemini, role-based authentication, and real-time inventory management.
+[View Project](https://github.com/Debashish0Sarker/E-Commerce_MERN)
+
+---
+
 ### 3D Scene Builder
 - Developed a full-stack web application featuring an interactive 3D graphics canvas that enables real-time rendering, manipulation, and customization of complex 3D layouts.
 [View Project](https://github.com/Debashish0Sarker/Application_3D)

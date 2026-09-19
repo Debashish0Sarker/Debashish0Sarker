@@ -8,11 +8,6 @@ I'm a Computer Science graduate focused on Software Engineering, interested in b
 - **Machine Learning, Deep Learning, Federated Learning**
 - **Unity** 
 
-
-## Currently Learning
-- **Blender** - 3D Software Tool
-- **MERN Stack** (MongoDB, Express, React, Node.js)
-
 ## Tech Stack
 
 ### Programming Languages

@@ -4,7 +4,7 @@
 I'm a Computer Science graduate focused on Software Engineering, interested in building scalable web applications and AI-driven systems. I enjoy building efficient, scalable solutions and continuously expanding my technical skill set. 
 
 ## Skills & Expertise
-- **Laravel** 
+- **Laravel, Flask, MERN stack, Next.js, Django** 
 - **Machine Learning, Deep Learning, Federated Learning**
 - **Unity** 
 
